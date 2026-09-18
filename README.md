@@ -1,6 +1,6 @@
 # Hi, I'm Prince 👋
 
-Final-year student building real products: AI Telegram agents and an
+Level 200 CS student building real products: AI Telegram agents and an
 on-device cocoa disease detector for Ghanaian farmers.
 
 **Featured:**
