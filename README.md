@@ -1,5 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building small, practical projects—web apps, APIs, and automations—focused on learning fast and shipping real things.<br><br>👯 I’m looking to collaborate on<br>Early-stage ideas, MVPs, hackathon projects, and experiments where speed, curiosity, and execution matter more than perfection.<br><br>🤝 I’m looking for help with<br>Feedback on projects, architecture decisions, and sharpening ideas into something users actually want.<br><br>🌱 I’m currently learning<br>Modern full-stack development, system thinking, and how to turn rough ideas into usable products.<br><br>💬 Ask me about<br>Getting started fast, building messy MVPs, learning by doing, and staying consistent without overthinking.<br><br>⚡ Fun fact<br>I’d rather ship a rough prototype today than plan a “perfect” product for months 🚀<br><br>If you want, tell me:<br><br>where this will be used (LinkedIn, GitHub, portfolio, Discord, etc.)<br><br>your main tech stack or interests<br><br>I’ll tailor it sharply to you instead of generic polish 💡<br><br>github portfolio<br><br><br>Got it 👍 GitHub favors clarity, confidence, and builder energy. Here’s a tight GitHub-profile version that reads well to devs and recruiters without fluff 🚀<br><br>🔭 I’m currently working on<br>Small, real-world projects—web apps, APIs, and automations—focused on learning fast and shipping consistently.<br><br>👯 I’m looking to collaborate on<br>MVPs, open-source tools, hackathon projects, and scrappy ideas that turn into working code quickly.<br><br>🤝 I’m looking for help with<br>Code reviews, system design feedback, and pressure-testing ideas before scaling them.<br><br>🌱 I’m currently learning<br>Full-stack development, clean architectures, and how to move from prototype → product.<br><br>💬 Ask me about<br>Building messy MVPs, learning by shipping, and staying productive without over-planning.<br><br>⚡ Fun fact<br>I believe momentum beats perfection—every time ⚡
+# Hi, I'm Prince 👋
+
+Final-year student building real products: AI Telegram agents and an
+on-device cocoa disease detector for Ghanaian farmers.
+
+**Featured:**
+- [cocoa-guard-ai](https://github.com/princetrump7/cocoa-guard-ai) — final-year project. TF.js MobileNetV3 on-device diagnosis (anthracnose / black pod / CSSVD / healthy) + LLM fallback + Supabase + offline-first. MIT.
+- [boop-agent](https://github.com/princetrump7/boop-agent) — autonomous Telegram AI agent (TypeScript, Telegraf, Convex, multi-LLM).
+
+**Also:** private SaaS in trading automation (Telegram vision bots) — ask me about it.
+
+🔭 Currently: shipping my final year + SaaS betas.
+👯 Open to: hackathons, MVPs, AI/automation gigs.
+💬 Ask me about: Next.js + Supabase, Telegram bots, TF.js on-device ML, Render/Vercel deploys.
+⚡ Momentum beats perfection.
 
 
 ## 🌐 Socials:
